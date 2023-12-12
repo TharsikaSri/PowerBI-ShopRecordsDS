@@ -7,7 +7,7 @@ The goal of the Shop Record project is to clean the data and create a story from
 The dataset used is called "Dataset- Shop-Records.xlsx". It consists of 4 tables with data on sales, products, date and country details.
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
-- Dataset- Shop-Records.xlsx -> a CSV file with the migration dataset <br>
+- Dataset- Shop-Records.xlsx -> a CSV file with the migration dataset <br> 
 - Shop Records.pbix - > this is a PowerBI file which contains the visualisations for this project <br>
 - README.md -> this file provides information on this project <br> </div
 
